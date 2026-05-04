@@ -53,6 +53,7 @@
 - **[HCS (Highway Capacity Software)](https://mctrans.ce.ufl.edu/hcs/)** - A software for highway capacity and traffic analysis.
 - **[SUMO (Simulation of Urban Mobility)](https://www.eclipse.org/sumo/)** - An open-source tool for simulating traffic and transportation systems.
 - **[TransCAD](https://www.caliper.com/tcovu.htm)** - A GIS-based software for transportation planning and analysis.
+- **[Asphalt Calculate](https://asphalt-calculate.com)** - Free web calculator for asphalt tonnage, cost, and thickness on driveways, parking lots, and paths. Supports rectangle, circle, triangle, and L-shape areas.
 
 ## Water Resources Engineering
 
@@ -69,6 +70,7 @@
 - **[Procore](https://www.procore.com/)** - A cloud-based platform for construction project management.
 - **[Navisworks](https://www.autodesk.com/products/navisworks/overview)** - A tool for project review and coordination in construction.
 - **[BIM 360](https://www.autodesk.com/bim-360/)** - A platform for Building Information Modeling (BIM) and collaboration.
+- **[Concrete Calculate](https://concrete-calculate.com)** - Free web calculator for concrete volume, bag counts (40/60/80 lb), weight, and 2026 cost. Slabs, columns, steps, curbs. Imperial and metric.
 
 ## GIS and Remote Sensing
 
