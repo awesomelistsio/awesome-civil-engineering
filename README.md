@@ -69,6 +69,7 @@
 - **[Procore](https://www.procore.com/)** - A cloud-based platform for construction project management.
 - **[Navisworks](https://www.autodesk.com/products/navisworks/overview)** - A tool for project review and coordination in construction.
 - **[BIM 360](https://www.autodesk.com/bim-360/)** - A platform for Building Information Modeling (BIM) and collaboration.
+- **[RoofingCalculatorHQ](https://roofingcalculatorhq.com)** - Free multi-locale roofing cost-estimating suite (replacement cost, snow/wind load, material takeoff) with per-region cost data and code references for 10 markets, plus CC-BY 4.0 dataset exports.
 
 ## GIS and Remote Sensing
 
